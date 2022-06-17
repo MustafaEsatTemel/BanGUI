@@ -1,0 +1,7 @@
+name: BanGUI
+version: '${project.version}'
+main: tr.mustafaesattemel.bangui.BanGUI
+api-version: 1.19
+commands:
+  bangui:
+    description: Opens the Ban GUI
